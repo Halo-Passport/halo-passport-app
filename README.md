@@ -24,7 +24,7 @@ Considering some travellers having a busy schedule, a **Time Line function** sim
 After collecting the result, Halo passport can then be used as **an immunity passport**. A quick reponse (QR) code will be generated at the app directing to the record of the vaccinations and tests stored in the blockchain. The Quarentine and Control Officers can scan the QR code to check personal information of the users and status of them. As the record of vaccinations and tests are directly sent from  the testiing laboratories. It is not possible to falsify the result. <br/> <br/>
 
 # Simulation Workflow of bording process
-!(/images/flowdiagram.png) <br/> <br/>
+![GitHub Logo](/images/flowdiagram.png) <br/> <br/>
 
 # How we built it
 (...)
@@ -38,10 +38,12 @@ With Smartcontract labs are able to publish the COVID test results for the users
 
 ### APP - Frontend 
 
+We built two Frontend application with React Native and Expo. One is for Laboratory and the other one is for Citizens. Both can run on Web, iOS and Android.<br/> <br/>
 
+The Timeline page serves as a record for vaccination, covid-19 test result and even the status of saliva specimen status(eg. received, tested).<br/> <br/>
+Using Web3.js library, we are able to retrieve data from blockchain and notify users when there is new update on the blockchain eg. the Lab published covid-19 negative result certificate to a user. <br/> <br/>
 
-
-
+The Passport page generates a QR code for users to board an aircraft or visit other countries.  <br/> <br/>
 # Accomplishment we proud of
 
 We, together made a functional and good looking apps at a limited time, which is sooo cool. <br/> <br/>
@@ -49,7 +51,5 @@ We, together made a functional and good looking apps at a limited time, which is
 
 # What is next for Halo?
 (...)
-
-Use IPFS ->Reduce cost
 
 
