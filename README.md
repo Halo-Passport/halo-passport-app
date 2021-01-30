@@ -50,6 +50,10 @@ We, together made a functional and good looking apps at a limited time, which is
 
 
 # What is next for Halo?
-(...)
+**Further medical research** could be made with the help of Halo App. If there is side effect on someone who receives vaccination, we could then trace back the brand and batch to see if this also applies on others.
+
+Besides, we could try to **compare the effectiveness of vaccines of different brand**. Given a large dataset of vaccinated people with similar health conditions and physical characteristic, we could then compare how effective each brand's vaccine is.
+
+On the other hand, we could even **compare and predict the effectiveness of vaccines of a certain brand on different individuals** by **Machine Learning**. For instance, how well does it perform on children V.S. how well does it perform on elderly. Also, by **Regression**, we may predict how effective the vaccine might be on someone by inputting their personal information e.g. age, gender, health condition, height, weight etc.
 
 
