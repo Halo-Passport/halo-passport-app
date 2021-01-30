@@ -12,7 +12,7 @@ The start of the COVID-19 pandemic had brought the **tourism industry, people's 
 
 However, there exist loopholes in the current validation procedure by the customs officers. Many stick to the most primitive way (manually check the COVID test proof) to determine the health condition of travelers. Such an approach was **unable to detect the falsified documents**, while most people are often **fed up with the messy documents** that they need to prepare before departure and arrival. This paved a way for our innovation to spark - **Halo Passport**. <br/>
 
-Halo Passport is to provide a **credible and transparent platform** to aggregate user's health conditions and traveling documents using **blockchain technology**. We could certainly go through the doom and gloom with Halo Passport and enjoy being footloose and fancy-free like the pigeon in our logo <br/><br/>. 
+Halo Passport provide a **credible and transparent platform** to aggregate user's health conditions and traveling documents using **blockchain technology**. We could certainly go through the doom and gloom with Halo Passport and enjoy being footloose and fancy-free like the pigeon in our logo <br/><br/>. 
 
 
 
