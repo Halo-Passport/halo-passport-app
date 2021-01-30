@@ -13,8 +13,11 @@ contract Simple{
         _;
     }
 
+    event InfoChangeAnnouncement(address owner, string data );
+
     function setInfo(string memory data) public restricted{
         info = data;
+        emit InfoChangeAnnouncement(owner, info);
     }
 }
 /**
@@ -38,7 +41,7 @@ contract Simple{
     // get the instance to call the contract 
 
     let instance = await Simple.deployed()
-    instance.setInfo(abs)
+    instance.setInfo("abs")
 
     //Now you shoulde see the change in ganache -> new transaction  should be made
 
