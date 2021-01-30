@@ -2,17 +2,18 @@
 
 # Highlights
 
-* Provide a platform for **receiving the notification of test result** <br/>
-* Utlizing the blockchain to **prevent falsification of vaccination record and test result** <br/> <br/>
-
+* **Transparent timeline with all COVID test & vaccination records**<br/>
+* **QR code with hash to store test result & users information** <br/>
+* **No more falsified documents & identify truly healthy people** <br/><br/>
 
 # Inspiration
 
-During the COVID-19 pandemic, people are required to acquire a negative COVID-19 test result before travelling aboard in order to decline the spreading of the disease. As the test result takes time and expenditure, some people are trying to falsify the result. A number of false certificates and fake documents were sold in the airport and on online platforms, like telegram. <br/>
+The start of the COVID-19 pandemic had brought the **tourism industry, people's mental and physical condition to doom**. Parties from the globe tried hard to fulfill people's desire to travel and save the aviation industry. <br/>
 
-When we are trying to solve this problem, a similar case about falsification of document comes up in our discussion. It is about Massachusetts Institute of Technology (MIT) making a **digital certificate** for graduate students by the technology of blockchain. Whereas blockchain is a technology which stores digital asset in a decentralized way, in the other word, the data is stored in an commonly owned decentralized network which is less easier to be maliciously modified. <br/>
+However, there exist loopholes in the current validation procedure by the customs officers. Many stick to the most primitive way (manually check the COVID test proof) to determine the health condition of travelers. Such an approach was **unable to detect the falsified documents**, while most people are often **fed up with the messy documents** that they need to prepare before departure and arrival. This paved a way for our innovation to spark - **Halo Passport**. <br/>
 
-Therefore, we think of using the **blockchain** to make an immunity passport. And we proudly named it as **Halo passport**. <br/><br/>
+Halo Passport provide a **credible and transparent platform** to aggregate user's health conditions and traveling documents using **blockchain technology**. We aim to go through the doom and gloom with Halo Passport and enjoy being footloose and fancy-free like the pigeon in our logo <br/><br/>. 
+
 
 
 # What it does
@@ -24,7 +25,7 @@ Considering some travellers having a busy schedule, a **Time Line function** sim
 After collecting the result, Halo passport can then be used as **an immunity passport**. A quick reponse (QR) code will be generated at the app directing to the record of the vaccinations and tests stored in the blockchain. The Quarentine and Control Officers can scan the QR code to check personal information of the users and status of them. As the record of vaccinations and tests are directly sent from  the testiing laboratories. It is not possible to falsify the result. <br/> <br/>
 
 # Simulation Workflow of boarding process
-![GitHub Logo](/assets/images/flowDiagram.png) <br/> <br/>
+![GitHub Logo](/assets/images/flowChart.png) <br/> <br/>
 
 # How we built it
 (...)
