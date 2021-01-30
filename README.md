@@ -24,7 +24,7 @@ Considering some travellers having a busy schedule, a **Time Line function** sim
 After collecting the result, Halo passport can then be used as **an immunity passport**. A quick reponse (QR) code will be generated at the app directing to the record of the vaccinations and tests stored in the blockchain. The Quarentine and Control Officers can scan the QR code to check personal information of the users and status of them. As the record of vaccinations and tests are directly sent from  the testiing laboratories. It is not possible to falsify the result. <br/> <br/>
 
 # Simulation Workflow of boarding process
-![GitHub Logo](/assets/images/flowDiagram.png) <br/> <br/>
+![GitHub Logo](/assets/images/flowChart.png) <br/> <br/>
 
 # How we built it
 (...)
