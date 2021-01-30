@@ -22,7 +22,7 @@ export default function PassportQRCodeScreen() {
           <Text style={styles.title}>This is your Halo Passport</Text>
           <Text style={styles.title}>Present This Code when Boarding</Text>
           <Text style={styles.title}>
-            This code will only be valid for 1 minute
+            This code will only be valid for 3 minutes
           </Text>
           <QRCode
             value={qrcodeValue}

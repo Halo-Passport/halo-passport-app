@@ -1,12 +1,12 @@
 import * as React from "react";
-import { ImageBackground, StyleSheet } from "react-native";
+import { Button, ImageBackground, StyleSheet } from "react-native";
 import Timeline from "react-native-timeline-flatlist";
-import { Drizzle } from "@drizzle/store";
-import Simple from "../build/contracts/MyStringStore.json";
+// import { Drizzle } from "@drizzle/store";
+// import MyStringStore from "../build/contracts/MyStringStore.json";
 import { View } from "../components/Themed";
 
 const backgroundImage = "../assets/images/blockchain_page.png";
-const date = "2021/01/31";
+const date = "2021/01/30";
 const data = [
   {
     time: "30 Jan 09:00",
@@ -24,11 +24,6 @@ const data = [
     description: "Negative",
   },
 ];
-
-const options = {
-  // contracts: [MyStringStore],
-
-}
 
 const isTestPositive = () => {
   const testResult = data.find((block) => block?.description == "Positive");
@@ -58,6 +53,7 @@ export default function BlockchainScreen() {
           }}
           data={data}
         />
+        {/* <Button onPress={() => {}}></Button> */}
       </ImageBackground>
     </View>
   );
