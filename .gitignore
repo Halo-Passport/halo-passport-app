@@ -10,6 +10,6 @@ npm-debug.*
 web-build/
 .env
 .secret
-
+build/contracts/*
 # macOS
 .DS_Store
