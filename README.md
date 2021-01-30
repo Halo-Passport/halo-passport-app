@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/logo.png) <br/> <br/>
 
 # Highlights
 
@@ -38,6 +38,3 @@ We, togather made a functional and good looking apps at a limited time, which is
 (...)
 
 
-
-(*add a logo)
-(* try mark down language)
