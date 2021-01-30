@@ -6,7 +6,7 @@ import { ColorSchemeName } from 'react-native';
 import NotFoundScreen from '../screens/NotFoundScreen';
 import WelcomeScreen from '../screens/WelcomeScreen';
 import BlockchainScreen from "../screens/BlockchainScreen";
-import PassportQRCodeScreen from '../screens/PassportQRCodeSCreen';
+import PassportQRCodeScreen from '../screens/PassportQRCodeScreen';
 import { RootStackParamList } from '../types';
 import LinkingConfiguration from './LinkingConfiguration';
 
