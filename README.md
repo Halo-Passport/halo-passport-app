@@ -2,17 +2,17 @@
 
 # Highlights
 
-* Provide a platform for **recieving the notification of test result** <br/>
-* Utlizing the block chain and IPFS to **prevent falsify of vaccination record and test result** <br/> <br/>
+* Provide a platform for **receiving the notification of test result** <br/>
+* Utlizing the block chain and IPFS to **prevent falsification of vaccination record and test result** <br/> <br/>
 
 
 # Inspiration
 
-During the COVID-19 pandemic, people are required to acquire a negative COVID-19 test result before travelling aboard in order to decline the spreading of the disease. As the test result takes time and expeniture, some people are trying to falsify the result. Varies false certificates and fake documents were sold within the airport and onine platform, like telegram. <br/>
+During the COVID-19 pandemic, people are required to acquire a negative COVID-19 test result before travelling aboard in order to decline the spreading of the disease. As the test result takes time and expenditure, some people are trying to falsify the result. A number of false certificates and fake documents were sold in the airport and on online platforms, like telegram. <br/>
 
-When we trying to solve this problem, a similar case about falsify of document pop up in our discussion. It is about Massachusetts Institute of Technology (MIT) making a **digital certificate** for graduate student by the technology of blockchain. Whereas blockchain is a technology which stores digital asset in a decentralized way, in the other word, the data is stored in an commonly owned open space which is less easy to be maliciously modified. <br/>
+When we are trying to solve this problem, a similar case about falsification of document comes up in our discussion. It is about Massachusetts Institute of Technology (MIT) making a **digital certificate** for graduate students by the technology of blockchain. Whereas blockchain is a technology which stores digital asset in a decentralized way, in the other word, the data is stored in an commonly owned open space which is less easier to be maliciously modified. <br/>
 
-Therefore, we think of using the **blockchain** associated with **InterPlanetary File System (IPFS)** to make a immunity passport. And we proudly named it as **Halo passport**. <br/><br/>
+Therefore, we think of using the **blockchain** associated with **InterPlanetary File System (IPFS)** to make an immunity passport. And we proudly named it as **Halo passport**. <br/><br/>
 
 
 # What it does
@@ -31,7 +31,7 @@ After collecting the result, Halo passport can then be used as **an immunity pas
 
 # Accomplishment we proud of
 
-We, togather made a functional and good looking apps at a limited time, which is sooo cool. <br/> <br/>
+We, together made a functional and good looking apps at a limited time, which is sooo cool. <br/> <br/>
 
 
 # What is next for Halo?
