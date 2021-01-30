@@ -12,7 +12,7 @@ The start of the COVID-19 pandemic had brought the **tourism industry, people's 
 
 However, there exist loopholes in the current validation procedure by the customs officers. Many stick to the most primitive way (manually check the COVID test proof) to determine the health condition of travelers. Such an approach was **unable to detect the falsified documents**, while most people are often **fed up with the messy documents** that they need to prepare before departure and arrival. This paved a way for our innovation to spark - **Halo Passport**. <br/>
 
-Halo Passport provide a **credible and transparent platform** to aggregate user's health conditions and traveling documents using **blockchain technology**. We aim to go through the doom and gloom with Halo Passport and enjoy being footloose and fancy-free like the pigeon in our logo <br/><br/>. 
+Halo Passport provides a **credible and transparent platform** to aggregate user's health conditions and traveling documents using **blockchain technology**. We aim to go through the doom and gloom with Halo Passport and enjoy being footloose and fancy-free like the pigeon in our logo <br/><br/>. 
 
 
 
@@ -20,9 +20,9 @@ Halo Passport provide a **credible and transparent platform** to aggregate user'
 
 Halo is an app helping users to **tidy up all the vaccination and test record**, also being **an immunity passport** when boarding. <br/>
 
-Considering some travellers having a busy schedule, a **Time Line function** simplfying the blockchain information is designed and shows all the details of the vaccinations and tests did or going to be carry out. It aims to help users to manage and keep up-to-date with all the stuff related to the COVID vaccinations and tests. For example, users can acknowledge when will be the time realeasing the test result and hence read the result at the app. <br/>
+Considering some travellers having a busy schedule, a **Time Line function** simplfying the blockchain information is designed and shows all the details of the vaccinations and tests did or going to be carry out. It aims to help users manage and keep up-to-date with all the stuff related to the COVID vaccinations and tests. For example, users can be acknowledged when will the time releasing the test result be and hence checking the result through the app. <br/>
 
-After collecting the result, Halo passport can then be used as **an immunity passport**. A quick reponse (QR) code will be generated at the app directing to the record of the vaccinations and tests stored in the blockchain. The Quarentine and Control Officers can scan the QR code to check personal information of the users and status of them. As the record of vaccinations and tests are directly sent from  the testiing laboratories. It is not possible to falsify the result. <br/> <br/>
+After collecting the result, Halo passport can then be used as **an immunity passport**. A quick reponse (QR) code will be generated at the app directing to the record of the vaccinations and tests stored in the blockchain. The Quarentine and Control Officers can scan the QR code to check personal information of the users and status of them. As the record of vaccinations and tests are directly sent from the testing laboratories. It is not possible to falsify the result. <br/> <br/>
 
 # Simulation Workflow of boarding process
 ![GitHub Logo](/assets/images/flowChart.png) <br/> <br/>
