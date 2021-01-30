@@ -32,7 +32,7 @@ export default function WelcomeScreen({ navigation }: any) {
           }
           buttonStyle={styles.button}
           type='outline'
-          disabled
+          // disabled
         />
       </ImageBackground>
     </View>
